@@ -1,0 +1,162 @@
+#header-col-3-main-cont {
+    margin-top: 120px;
+}
+
+
+#header-col-3-wrap-1 {
+    text-align: center;
+}
+
+#header-col-3-wrap-2 {
+    margin-top: 195px;
+    text-align: center;
+}
+
+#header-col-3-wrap-3 {
+    margin-top: 140px;
+    text-align: center;
+}
+
+#header-col-3-wrap-2 h1 {
+    color: #081240;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+/* Soothe Throat Style */
+
+#soothe-throat-main-cont {
+    background-color: #fff;
+    padding: 0px 0px 100px 0px;
+}
+
+#soothe-throat-cont {
+    max-width: 1300px;
+    margin: 0px auto;
+}
+
+#soothe-throat-wrap-2 img {
+    width: 100%;
+}
+
+#soothe-throat-wrap-2 {
+    margin: 0px 0px 0px 40px;
+    padding: 10px;
+}
+
+/* Text Tag */
+#soothe-throat-wrap-2 h2 {
+    margin: 0px 0px 40px 0px;
+    padding: 0px;
+    color: #333;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.5em;
+    text-align: left;
+}
+
+/* Text Tag */
+#soothe-throat-wrap-2 p {
+    margin: 0px 0px 20px 0px;
+    padding: 0px;
+    color: #70768e;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+    text-align: left;
+}
+
+#soothe-throat-wrap-3 {
+    margin: 20px 40px 0px 0px;
+    padding: 10px;
+}
+
+/* Text Tag */
+#soothe-throat-wrap-3 h2 {
+    margin: 0px 0px 20px 0px;
+    padding: 0px;
+    color: #1fb6ff;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 1.5em;
+    text-align: left;
+}
+
+#soothe-throat-wrap-4 {
+    margin: 20px 0px 20px 0px;
+    padding: 10px;
+}
+
+/* Text Tag */
+#soothe-throat-wrap-4 p {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 40px;
+    color: #70768e;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+    text-align: left;
+}
+
+/* ./Soothe Throat Style */
+
+/* Mayo Clinic Style */
+
+#mayo-clinic-main-cont {
+    background-color: #008fcc;
+}
+
+#mayo-clinic-cont {
+    max-width: 1300px;
+    margin: 0px auto;
+}
+
+#mayo-clinic-wrap-1 {
+    margin: 0px 40px 0px 0px;
+    padding: 60px 0px 0px 0px;
+}
+
+/* Text Tag */
+#mayo-clinic-wrap-1 h2 {
+    margin: 0px 0px 40px 0px;
+    padding: 0px;
+    color: #fff;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.5em;
+    text-align: left;
+}
+
+/* Text Tag */
+#mayo-clinic-wrap-1 p {
+    margin: 0px 0px 26px 0px;
+    padding: 0px;
+    color: #fff;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8571428571429;
+    text-align: left;
+}
+
+#mayo-clinic-wrap-1 ul {
+    margin: 0 0 25px 5px;
+    color: #fff;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#mayo-clinic-wrap-2 img {
+    margin: -55px 0px 100px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+/* Mayo Clinic Style */

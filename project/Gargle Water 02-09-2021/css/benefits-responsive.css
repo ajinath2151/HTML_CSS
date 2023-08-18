@@ -1,0 +1,90 @@
+/* Pad Screen */
+@media screen and (max-width: 1024px) {
+    #top-image-main-cont {
+        margin-top: 140px;
+        padding: 70px 0px 90px 0px;
+    }
+    #top-second-image-main-cont {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    #top-second-image-wrap img {
+        max-width: 80%;
+    }
+    #soar-throat-main-cont {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    #soar-throat-wrap-1 {
+        padding: 0px 0px 0px 0px;
+    }
+    #original-gargle-wrap-2-header-wrap h3 {
+        font-size: 20px;
+        line-height: 1.5em;
+    }
+    #original-gargle-down-para-main-cont {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 50px 0px 50px 0px;
+    }
+    #original-gargle-down-para-cont { 
+        padding: 0px;
+    }
+    #original-gargle-down-col-1 {
+        display: none;
+    }
+    #original-gargle-down-col-2 {
+        width: 100%;
+    }
+    #original-gargle-down-col-2-para-wrap {
+        padding: 0px 10px;
+    }
+}
+
+/* Mobile Screen */
+@media screen and (max-width: 767px) {
+    #top-image-main-cont {
+        margin-top: 100px;
+    }
+    #top-image-main-cont {
+        padding: 50px 0px 50px 0px;
+    }
+    #top-second-image-main-cont {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    #top-second-image-wrap img {
+        max-width: 100%;
+    }
+    #soar-throat-col-1, #soar-throat-col-2 {
+        max-width: 100%;
+    }
+    #soar-throat-wrap-1 {
+        margin: 30px 10px 30px 10px;
+    }
+    #soar-throat-wrap-1-inner-wrap {
+        margin: 0px 0px 0px 0px;
+    }
+    #soar-throat-wrap-2-image-wrap {
+        margin: 25px 0px 0px 0px;
+    }
+    #blue-box-cont {
+        padding: 20px 10px 20px 10px;
+    }
+    #original-gargle-header-main-cont {
+        margin-bottom: 35px;
+    }
+    #original-gargle-top-header-wrap h2 {
+        font-size: 28px;
+    }
+    #original-gargle-col-1, #original-gargle-col-2 {
+        width: 100%;
+    }
+    #original-gargle-wrap-1 {
+        margin-bottom: 20px;
+    }
+    #original-gargle-wrap-2 {
+        padding: 0px;
+    }
+}

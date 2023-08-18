@@ -1,0 +1,188 @@
+
+#header-col-3 {
+    margin-top: 120px;
+}
+
+#header-col-3-wrap-1 {
+    text-align: center;
+}
+
+#header-col-3-wrap-2 {
+    margin-top: 240px;
+    text-align: center;
+}
+
+#header-col-3-wrap-3 {
+    margin-top: 145px;
+    text-align: center;
+}
+
+#header-col-3-wrap-2 h1 {
+    color: #081240;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+/* Natural Style */
+
+#natural-main-cont {
+    background-color: #1fb6ff;
+}
+
+#natural-cont {
+    max-width: 1300px;
+    margin: 0px auto;
+}
+
+#natural-wrap-1 {
+    margin: 50px 0px 50px 0px;
+    padding: 0px 50px 0px 0px;
+}
+
+/* Text Tag */
+#natural-wrap-1 h2 {
+    margin: 0px 0px 20px 0px;
+    padding: 0px;
+    color: #fff;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.3;
+    text-align: left;
+}
+
+/* Text Tag */
+#natural-wrap-1 p {
+    margin: 0px 0px 20px 0px;
+    padding: 0px;
+    color: #fff;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+    text-align: left;
+}
+
+#natural-wrap-2 {
+    height: 458px;
+    background-image: url("../img/sec/natural-img.jpg");
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#boy-wrap-1 {
+    height: 533px;
+    background-image: url("../img/sec/boy-img.jpg");
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* ./Natural Style */
+
+/* Boy Style */
+
+#boy-main-cont {
+    background-color: #fff;
+}
+
+#boy-cont {
+    max-width: 1300px;
+    margin: 0px auto;
+}
+
+#boy-wrap-2 {
+    margin: 50px 0px 135px 0px;
+    padding: 0px 0px 0px 30px;
+}
+
+/* Text Tag */
+#boy-wrap-2 h2 {
+    margin: 0px 0px 20px 0px;
+    padding: 0px;
+    color: #000;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.5em;
+    text-align: left;
+}
+
+/* Text Tag */
+#boy-wrap-2 p {
+    margin: 0px 0px 20px 0px;
+    padding: 0px;
+    color: #70768e;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+    text-align: left;
+}
+
+/* ./Boy Style */
+
+/* ./Natural Style */
+
+/* Tips Style */
+
+#tips-main-cont {
+    padding: 100px 0px 100px 0px;
+    background-color: transparent;
+    background-image: linear-gradient(90deg,#1fb6ff 50%,#fbfcfd 50%);
+}
+
+#tips-cont {
+    max-width: 1300px;
+    margin: 0px auto;
+}
+
+#tips-wrap-1 {
+    margin: 0px 50px 0px 0px;
+    padding: 10px;
+}
+
+/* Text Tag */
+#tips-wrap-1 h2 {
+    margin: 0px 0px 40px 0px;
+    padding: 0px;
+    color: #fff;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.3;
+    text-align: left;
+}
+
+/* Text Tag */
+#tips-wrap-1 p {
+    margin: 0px 0px 26px 0px;
+    padding: 0px;
+    color: #fff;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8571428571429;
+    text-align: left;
+}
+
+#tips-wrap-2 {
+    margin: 0px 0px 0px 50px;
+    padding: 10px;
+}
+
+/* Text Tag */
+#tips-wrap-2 p {
+    margin: 0px 0px 40px 0px;
+    padding: 0px;
+    color: #70768e;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+    text-align: left;
+}
+
+/* ./Tips Style */

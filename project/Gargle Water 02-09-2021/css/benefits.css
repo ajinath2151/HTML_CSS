@@ -1,0 +1,298 @@
+
+/* Top Image */
+
+#top-image-main-cont {
+	margin-top: 120px;
+	padding: 100px 0px 150px 0px;
+	background-color: #1fb6ff;
+}
+
+#top-image-cont {
+	max-width: 1300px;
+	margin: 0px auto;
+}
+
+#top-image-wrap {
+	padding: 10px;
+}
+
+#top-image-wrap img {
+	width: 100%;
+}
+
+#top-image-image-wrap {
+	padding: 20px 0px 0px 0px;
+}
+
+#top-image-cont h2{
+	color: #fff;
+	font-family: "Exo 2",Sans-serif;
+	font-size: 32px;
+	font-weight: 600;
+	text-shadow: 0px 0px 10px rgba(0,0,0,.3);
+	line-height: 42px;
+}
+
+#top-image-header-wrap {
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+/* ./Top Image */
+
+/* Top Second Image */
+
+#top-second-image-main-cont {
+	margin-top: 150px;
+	margin-bottom: 150px;
+	padding: 0px 0px 0px 0px;
+}
+
+#top-second-image-cont {
+	max-width: 1300px;
+	margin: 0px auto;
+}
+
+#top-second-image-wrap {
+	padding: 10px;
+	text-align: center;
+}
+
+#top-second-image-wrap img{
+	max-width: 47%;
+	opacity: 1;
+	vertical-align: middle;
+	display: inline-block;
+	height: auto;
+	border: none;
+	border-radius: 0;
+}
+
+/* ./Top Second Image */
+
+/* Soar throat image section */
+
+#soar-throat-main-cont {
+	background-color: #fff;
+	margin: -50px 0px 0px 0px;
+	padding: 10px 0px 30px 10px;
+}
+
+#soar-throat-cont  {
+	max-width: 1300px;
+	margin: 0px auto;
+}
+
+#soar-throat-col-1 {
+	max-width: 70%;
+}
+
+#soar-throat-col-2 {
+	max-width: 30%;
+}
+
+#soar-throat-wrap-1-inner-wrap {
+	margin: 30px;
+}
+
+.soar-throat-left-top-para-wrap {
+	color: #70768e;
+	font-family: "Exo 2",Sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 32px;
+	margin-bottom: 20px;
+}
+
+#soar-throat-cont h3 {
+	color: #1fb6ff;
+	font-family: "Exo 2",Sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	line-height: 36px;
+}
+
+
+#soar-throat-wrap-2-image-wrap {
+	margin: 50px 0px 0px 0px;
+}
+
+#soar-throat-wrap-2-image-wrap img {
+	height: auto;
+	max-width: 100%;
+	border: none;
+}
+
+/* ./Soar throat image section */
+
+/* Blue Box Container */
+
+#blue-box-main-cont {
+	background-color: #fff;
+}
+
+#blue-box-cont {
+	max-width: 1300px;
+	margin: 0px auto;
+	padding: 50px 40px 50px 40px;
+	background-color: #1fb6ff;
+}
+
+#blue-box-para-wrap {
+	color: #fff;
+	font-family: "Exo 2",Sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 32px;
+	text-shadow: 0px 0px 10px rgba(0,0,0,.3);
+	width: 100%;
+}
+
+/* ./Blue Box Container */
+
+/* Orginal Gargle Header Container */
+
+#original-gargle-header-main-cont {
+	margin-bottom: 20px;
+	margin-top: 70px;
+}
+
+#original-gargle-header-cont {
+	padding: 0px 10px 0px;
+	max-width: 1300px;
+	margin: 0px auto;
+}
+
+#original-gargle-top-header-wrap h2{
+	font-family: "Exo 2",Sans-serif;
+	font-size: 32px;
+	font-weight: 600;
+	color: #464646;
+	line-height: 42px;
+}
+
+/* ./Orginal Gargle Header Container */
+
+/* Orginal Gargle Container */
+
+#original-gargle-main-cont {
+	margin-top: 30px;
+}
+
+#original-gargle-cont {
+	padding: 0px 10px 0px;
+	max-width: 1300px;
+	margin: 0px auto;
+}
+
+#original-gargle-col-1 {
+	width: 30%;
+}
+
+#original-gargle-cont img {
+	height: auto;
+	max-width: 100%;
+	border: none;
+	vertical-align: middle;
+}
+
+#original-gargle-col-2 {
+	width: 70%;
+}
+
+#original-gargle-wrap-2 {
+	padding-left: 40px;
+}
+
+#original-gargle-wrap-2-header-wrap h3 {
+	color: #1fb6ff;
+	font-family: "Exo 2",Sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	line-height: 36px;
+	margin-bottom: 20px;
+}
+
+
+/* ./Orginal Gargle Container */
+
+/* Orginal Gargle Down Container */
+
+#original-gargle-down-para-main-cont {
+	background-color: #1fb6ff;
+	margin-top: -90px;
+	margin-bottom: 0px;
+}
+
+#original-gargle-down-col-1 {
+	width: 30%;
+}
+
+#original-gargle-down-col-2 {
+	width: 70%;
+}
+
+#original-gargle-down-para-cont {
+	padding: 30px 0px 38px 0px;
+	z-index: 0;
+	max-width: 1300px;
+	margin: 0px auto;
+}
+
+#original-gargle-down-col-2-para-wrap {
+	display: flex;
+	position: relative;
+    width: 100%;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+    padding: 0px 0px 0px 40px;
+}
+
+#original-gargle-down-col-2-para-wrap p {
+	color: #fff;
+	font-family: "Exo 2",Sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 32px;
+	text-shadow: 0px 0px 10px rgba(0,0,0,.3);
+	width: 100%;
+}
+
+/* ./Orginal Gargle Down Container */
+
+/* Our Product Footer Container */
+
+#our-product-footer-cont{
+	background-color: #f7f7f7;
+	padding: 50px 0px 50px 0px;
+}
+
+#our-product-footer-inner-wrap {
+	padding: 40px 20px 40px 20px;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	text-align: center;
+}
+
+#our-product-footer-inner-wrap p {
+	color: #081240;
+	font-family: "Exo 2",Sans-serif;
+	font-size: 15px;
+	line-height: 15px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+#our-product-footer-inner-wrap span {
+	    margin-top: 20px !important;
+	    display: block;
+	    font-weight: bold;
+}
+
+#our-product-footer-col {
+	padding: 0px 10px;
+}
+
+/* ./Our Product Footer Container */

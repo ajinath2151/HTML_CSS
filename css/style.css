@@ -1,0 +1,38 @@
+.flexbox-container {
+background-color: yellow;
+display: flex;
+/* flex-wrap: wrap;
+height: 700px;
+justify-content: space-around;
+align-items: center;
+align-content: space-between; */
+/* flex-direction: column;
+justify-content: center;
+height: 800px;
+align-items: center; */
+}
+.flexbox-item {
+    width: 200px;
+    margin: 10px;
+    border: 3px solid rgb(17, 17, 17);
+    background-color: rgb(204, 188, 188);
+}
+.flexbox-item1 {
+    min-height: 100px;
+    /* take whole default space do not have less than there space if size is small then also */
+    flex-shrink: 0;
+    align-self: flex-end;
+    order: 3;
+}
+.flexbox-item2 {
+    min-height: 200px;
+    align-self: center;
+    order: 1;
+}
+.flexbox-item3 {
+    min-height: 300px;
+    /* take remaining space from page  can use with multiple items*/
+    flex-grow: 1;          
+    order: 2;
+
+}

@@ -1,0 +1,26 @@
+.flex-container {
+display: flex;
+background-color: rgb(131, 189, 240);
+border: 2px solid;
+height: 60vh;
+/* flex-direction: column; */
+/* justify-content: center; */
+/* align-items: flex-end; */
+/* flex-wrap: wrap; */
+}
+.flex-item {
+    background-color: rgb(211, 197, 197);
+    color: rgb(151, 12, 243);
+    border: 2px solid black;
+    margin: 20px;
+    width: 120px;
+    height: 120px;
+}
+.item1 {
+    /* order: 3; */
+    /* flex-shrink: 4; */
+    align-self: center ;
+}
+.item4 {
+    /* order: 6; */
+}

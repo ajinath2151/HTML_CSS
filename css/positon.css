@@ -1,0 +1,10 @@
+.mainDiv {
+    height: 2000px;
+    background-color: #fff;
+}
+.rbPosition {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    height: 30px;
+}

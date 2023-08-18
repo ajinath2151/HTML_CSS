@@ -1,0 +1,9 @@
+.container {
+    background-color: cyan;
+    border: 2px solid rgb(233, 52, 16);
+    padding: 80px;
+    margin: 40px;
+    /* padding: 10px 40px;                 10px top-bottom and 40px right-left */
+    border-radius: 30px;
+
+}

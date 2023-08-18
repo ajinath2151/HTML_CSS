@@ -1,0 +1,49 @@
+/* Pad Screen */
+@media screen and (max-width: 1024px) {
+    #map-main-cont {
+        margin-top: 140px;
+        padding: 50px 0px 50px 0px;
+    }
+    #map-cont-wrap-1, #map-cont-wrap-2 {
+        margin: 15px 15px 15px 15px;
+        padding: 0px 0px 0px 0px;  
+    } 
+
+    #map-cont-wrap-2 {
+        padding: 0px 0px 0px 0px;
+    }
+
+    #address-main-cont {
+        padding: 70px 30px 40px 30px;
+    }
+    #shark-image-wrap img {
+        width: 100%;
+    }
+}
+
+/* Mobile Screen */
+@media screen and (max-width: 767px) {
+    #map-main-cont {
+        margin-top: 150px;
+        margin-bottom: 50px;
+        padding: 0px 0px 0px 0px;
+        background-image: none;
+        background-color: #FFFFFF;
+    }
+    #address-main-cont {
+        margin-top: 50px;
+        margin-bottom: 280px;
+        padding: 15px 15px 15px 15px;
+    }
+    #address-wrap-1 {
+        margin-bottom: 40px;
+    }
+    #address-wrap-1, #address-wrap-2 {
+        padding: 0px 20px 0px 20px;
+    }
+
+    .fas.fa-angle-down {
+        color: #fff !important;
+    }
+
+}

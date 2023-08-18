@@ -1,0 +1,106 @@
+
+/* Pad Screen */
+@media screen and (max-width: 1024px) {
+    #header-col-3-main-cont {
+        padding: 0px 0px 0px 0px;
+        margin-top: 130px;
+        margin-bottom: 50px;
+    }
+
+    #header-col-3-wrap-1 img {
+        max-width: 36%;
+    }
+
+    #header-col-3-wrap-2 {
+        margin: 60px 0px 75px 0px;
+    }
+
+
+    #header-col-3-wrap-2 h1 {
+        margin: 0px 0px 30px 0px;
+        font-size: 31px;
+    }
+    #header-col-3-wrap-3 {
+        margin: 50px 0px 50px 0px;
+        padding: 0px 60px 0px 60px;
+        text-align: center;
+    }
+    #header-col-3-wrap-3 h2 {
+        margin: 0px 0px 20px 0px;
+        color: #081340;
+        font-family: "Exo 2",Sans-serif;
+        font-size: 21px;
+        font-weight: 600;
+    }
+    #natural-wrap-1 {
+        padding: 10px 10px 10px 10px;
+        margin-bottom: 30px;
+    }
+    #natural-wrap-2 {
+        height: 523px;
+    }
+    #boy-wrap-1 {
+        height: 600px;
+    }
+    #boy-wrap-2 {
+        margin: 30px 0px 40px 0px;
+        padding: 10px 10px 10px 10px;
+    }
+
+    #tips-main-cont {
+        padding: 30px 0px 0px 0px;
+    }
+
+    #tips-wrap-1 h2 {
+        margin: 0px 0px 20px 0px;
+    }
+
+    #tips-wrap-2 {
+        margin: 20px 0px 0px 0px;
+    }
+
+}
+
+/* Mobile Screen */
+@media screen and (max-width: 767px) {
+    #header-col-3-main-cont {
+        margin-top: 150px;
+        margin-bottom: 20px;
+        padding: 0px 0px 0px 0px;
+    }
+    #header-col-3-wrap-1 img {
+        height: 278px;
+    }
+    #header-col-3-wrap-2 h1 {
+        margin: 0px 0px 30px 0px;
+        font-size: 20px;
+    }
+    #header-col-3-wrap-3 {
+        margin: 50px 0px 50px 0px;
+        padding: 0px 20px 0px 20px;
+        text-align: center;
+    }
+    #header-col-3-wrap-3 h2 {
+        margin: 0px 0px 20px 0px;
+        color: #081340;
+        font-family: "Exo 2",Sans-serif;
+        font-size: 21px;
+        font-weight: 600;
+    }
+    #natural-wrap-2 {
+        height: 232px;
+    }
+    #boy-wrap-1 {
+        height: 274px;
+    }
+
+    #tips-main-cont {
+        background-image: none;
+    }
+
+    #tips-wrap-1 {
+        background-color: #1fb6ff;
+        margin: 0px 0px 0px 0px;
+    }
+
+}

@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .section {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: lightgray;
+  }
+  

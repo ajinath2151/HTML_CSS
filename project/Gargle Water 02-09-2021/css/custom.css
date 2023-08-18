@@ -1,0 +1,434 @@
+/* Common Style */
+.gw-m-p-0 {
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.gw-btn, .gw-btn:hover, .gw-btn:focus {
+    text-decoration: none;
+}
+
+.gw-btn-white {
+    display: inline-block;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1;
+    fill: #333;
+    color: #333;
+    background-color: #fff;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #12bcec;
+    border-radius: 100px 100px 100px 100px;
+    padding: 15px 40px 15px 40px;
+    text-align: center;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+.gw-btn-white:hover, .gw-btn-white:focus {
+    color: #fff;
+    background-color: #12bcec;
+}
+
+.gw-btn-blue {
+    display: inline-block;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1;
+    color: #fff;
+    background-color: #1fb6ff;
+    border-radius: 100px 100px 100px 100px;
+    padding: 15px 40px 15px 40px;
+    text-align: center;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+.gw-btn-blue:hover, .gw-btn-blue:focus {
+    color: #fff;
+}
+
+/* ./Common Style */
+
+/* Header Col 3 Style */
+
+#header-col-3-main-cont {
+    position: relative;
+    padding: 100px 0px 100px 0px;
+    margin-top: 120px;
+}
+
+#header-col-3-wrap-2 {
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+#header-col-3-wrap-2 h1 {
+    margin: 0px 0px 40px 0px;
+    color: #081240;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+#header-col-3-wrap-2 p {
+    margin: 0px 0px 60px 0px;
+    color: #70768e;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+
+#mobile-shark-wrap {
+    display: none;
+}
+
+#header-col-3-wrap-3 {
+    margin: 100px 0px 50px 0px;
+    padding: 0px 60px 0px 60px;
+    text-align: center;
+}
+
+#header-col-3-wrap-3 h2 {
+    margin: 0px 0px 20px 0px;
+    color: #081340;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+}
+
+/* Header Col 3 Style */
+
+/* Gargling Style */
+
+#gargling-main-cont {
+    width: 100%;
+    padding: 100px 0px 100px 0px;
+    background-image: url(../img/bg/bg1.jpg);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+#gargling-cont {
+    max-width: 1300px;
+    margin: 0px auto;
+}
+
+#gargling-wrap-1 {
+    padding: 10px;
+}
+
+#gargling-wrap-1 h2 {
+    margin: 0px;
+    color: #081240;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.gargling-divider {
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 10px 0px 30px 0px;
+}
+
+.gargling-separator {
+    display: block;
+    width: 25px;
+    margin: 0 auto;
+    border-top: 1px solid #464646;
+}
+
+#gargling-wrap-2 {
+    width: 52%;
+    padding: 10px;
+}
+
+.gargling-list-wrap {
+    margin: 0px 0px 50px 0px;
+}
+
+.gargling-list-wrap h3 {
+    margin: 0px 0px 20px 0px;
+    color: #081240;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+.gargling-list-wrap h3 i {
+    font-size: 21px;
+    color: #1fb6ff;
+    margin-right: 10px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+}
+
+.gargling-list-wrap p {
+    margin: 0px 0px 0px 40px;
+    color: #70768e;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+
+.gargling-list-wrap p a {
+    font-family: "Montserrat",Sans-serif;
+    text-decoration: none;
+    color: #0cf;
+}
+
+#gargling-wrap-2 .gw-btn-blue {
+    font-size: 16px;
+    font-weight: 400;
+    background-color: #1fb6ff;
+    border-radius: 100px 100px 100px 100px;
+    margin: -15px 0px 0px 40px;
+    padding: 18px 30px 18px 30px;
+}
+
+#gargling-wrap-2 .gw-btn-blue i {
+    display: inline-block;
+    margin-left: 24px;
+}
+
+/* ./Gargling Style */
+
+/* ph Style */
+
+#ph-main-cont {
+    padding: 70px 0px 70px 0px;
+    background-color: #fff;
+}
+
+#ph-wrap-1 {
+    text-align: right;
+    padding: 10px;
+}
+
+#ph-col-2 {
+    position: relative;
+}
+
+#ph-wrap-2 {
+    text-align: left;
+    padding: 10px;
+}
+
+#ph-wrap-2 h2 {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    color: #081240;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 29px;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.ph-divider {
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.ph-separator {
+    display: block;
+    width: 25px;
+    margin: 0px;
+    border-top: 1px solid #464646;
+}
+
+.ph-list-wrap {
+    position: relative;
+    display: block;
+    width: 100%;
+}
+
+.ph-list-wrap h3 {
+    margin: 30px 0px 0px 0px;
+    color: #081240;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.8em;
+}
+
+.ph-list-wrap p {
+    margin: 0px;
+    color: #70768e;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+
+#ph-wrap-2 .gw-btn-blue {
+    position: relative;
+    margin: 50px 0px 0px 0px;
+    font-size: 16px;
+    font-weight: 400;
+    background-color: #1fb6ff;
+    border-radius: 100px 100px 100px 100px;
+    padding: 18px 40px 18px 40px;
+}
+
+#ph-wrap-2 .gw-btn-blue i {
+    margin-left: 30px;
+}
+
+/* ./ph Style */
+
+/* Questions Style */
+
+#ques-main-cont {
+    width: 100%;
+    padding: 100px 0px 60px 0px;
+    background-image: url(../img/bg/bg2.jpg);
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#ques-cont {
+    max-width: 1300px;
+    margin: 0px auto;
+}
+
+#ques-wrap-1 h2 {
+    margin: 0px;
+    color: #081240;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.ques-divider {
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 10px 0px 0px 0px;
+}
+
+.ques-separator {
+    display: block;
+    width: 25px;
+    margin: 0 auto;
+    border-top: 1px solid #464646;
+}
+
+#ques-wrap-2 {
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.ques-list-wrap {
+    margin: 0px 0px 50px 0px;
+}
+
+.ques-list-wrap h3 {
+    margin: 0px 0px 20px 0px;
+    color: #081240;
+    font-family: "Montserrat",Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+.ques-list-wrap p {
+    margin: 0px 0px 0px 0px;
+    color: #70768e;
+    font-family: "Montserrat",Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+
+/* ./Questions Style */
+
+/* Blue BG Box Style */
+
+#blue-bg-box-main-cont {
+    background-color: #1fb6ff;
+    padding: 140px 0px 140px 0px;
+}
+
+#blue-bg-box-cont {
+    max-width: 1300px;
+    margin: 0px auto;
+}
+
+#blue-bg-box-wrap {
+    text-align: center;
+}
+
+#blue-bg-box-wrap h2{
+    color: #fff;
+    font-family: "Exo 2",Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-shadow: 0px 0px 10px rgb(0 0 0 / 30%);
+}
+
+.blue-bg-box-divider {
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 10px 0px 0px 0px;
+}
+
+.blue-bg-box-separator {
+    display: block;
+    width: 25px;
+    margin: 0 auto;
+    border-top: 1px solid #fff;
+}
+
+#blue-bg-box-wrap a {
+    margin: 20px 0px 0px 0px;
+    font-family: "Montserrat",Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    fill: #1fb6ff;
+    color: #1fb6ff;
+    background-color: #fff;
+    border-radius: 100px 100px 100px 100px;
+    padding: 18px 40px 18px 40px;
+}
+
+#blue-bg-box-wrap a:hover, #blue-bg-box-wrap a:focus {
+    color: #1fb6ff;
+}
+
+/* ./Blue BG Box Style */

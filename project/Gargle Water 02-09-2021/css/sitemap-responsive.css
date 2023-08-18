@@ -1,0 +1,39 @@
+/* Pad Screen */
+@media screen and (max-width: 1024px) {
+
+    #order-main-section {
+        background-position: bottom left;
+        background-size: 400px auto;
+        padding: 70px 0px 70px 0px;
+        margin-top: 140px;
+    }
+
+    #order-wrap-1 {
+        padding: 0px 20px 0px 0px;
+        text-align: right;
+    }
+
+    #order-wrap-1 h2 {
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+
+    #bottle-main-section {
+        padding: 50px 0px 30px 0px;
+    }
+
+}
+
+/* Mobile Screen */
+@media screen and (max-width: 767px) {
+
+    #order-main-section {
+        margin-top: 100px;
+        background-size: 330px auto;
+    }
+
+    #order-wrap-1 {
+        text-align: center;
+    }
+
+}

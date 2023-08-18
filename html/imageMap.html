@@ -1,0 +1,49 @@
+
+
+
+<!-- area attribute poly does not used for this example which is useful for multiple dots connect / multiple coords -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Map Example</title>
+    <style>
+        .container {
+            display: block;
+            text-align: center;
+            /* align-items: center; */
+            justify-content: center;
+        }
+        img {                       
+            margin: auto;
+            height: 300px;
+            display: inline-block;
+        }
+    </style>
+    <script>
+        // js is optional for this example
+        function computerClick() {
+            alert("you clicked on computer...")
+        }
+        function teacupClick() {
+            alert("you clicked on tea cup and saucer set...")
+        }
+        function mobileClick() {
+            alert("you clicked on mobile handset...")
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h3>click on images in clickable area</h3>
+        <img src="images/computer.jpg" alt="compimage" usemap="#computer">
+        <map name="computer">
+            <area shape="rect" coords="45,50,260,230" href="images/computer2.jpg" alt="computer2images" onclick="computerClick()">
+            <area shape="circle" coords="330,178,40" href="images/tea cup and saucer.webp" alt="teacupandsaucer" onclick="teacupClick()">  <!--  44 is radius from center of circle -->
+            <area shape="rect" coords="295,248,385,224" href="images/mobile image.jpeg" alt="" onclick="mobileClick()"> 
+        </map>
+    </div>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>postion properties</title>
+    <style>
+        /* position: static(default), absolute, relative, fixed, sticky */
+        /* static - showing content as per DOM order
+        /* relative - relative to it's normal position, take space from it's normal position if we use margin, can set top, bottom, :right, left */
+        /* absolute - if does not want's gap form it's normal position,  can use absolute, it related to the parent */
+        /* fixed - get a fixed space on window, does not affect on scroll too */
+        /* sticky - relative to it's browser window */
+        
+        .container {
+            border: 2px solid black;
+            background-color: khaki;
+            height: 3444px;
+        }
+        .box {
+            display: inline-block;
+            border: 2px solid red;
+            width: 150px;
+            height: 150px;
+            margin: 4px;
+
+        }
+        /* #box3 {
+                position: relative;             
+                top: 34px;
+                left: 34px;
+            
+        }  */
+        
+        /* #box3 {
+                position: absolute;             
+                top: 34px;
+                left: 134px;
+          
+        } */
+        /* #box3 {
+                position:fixed;             
+                right: 10px;
+                bottom: 10px;
+        } */
+        #box3 {
+                position: sticky;                                  
+                top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box" id="box1">1</div>
+        <div class="box" id="box2">2</div>
+        <div class="box" id="box3">3</div>
+        <div class="box" id="box4">4</div>
+    </div>
+</body>
+</html>
