@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+}
+.card {
+    padding: 23px 12px;
+    /* border: 2px solid red; */
+    margin: 23px 12px;
+    background-color: rgb(160, 197, 131);
+    /* box-shadow: 5px 10px 10px red; /*  x axis y axis and blur radius, spread radius */
+    /*box-shadow: 5px 10px 10px 10px red;   x axis y axis and blur radius, spread radius */
+    /* box-shadow: -5px -10px blue;   negative   values for top-left   */ 
+
+    /* box-shadow: inset, for shadow inside box */
+    /*box-shadow: inset 12px 13px 54px red;   x axis y axis and blur radius, spread radius */
+
+    /* multiple box shadow */
+    box-shadow: 5px 10px deepskyblue, 10px 5px red;       
+}
+/* text ::shadow */
+h1 {
+    /* text-shadow: 1px 1px red; */
+    text-shadow: 1px 1px 10px red;
+  
+}
