@@ -1,0 +1,10 @@
+.container {
+    height: 200px;
+    width: 200px;
+    border: 5px solid orangered;
+    overflow: auto; /* this use scrollbar */
+    overflow: hidden; /* this hide content that overflow */
+    overflow: scroll; /* this use scrollbar */
+    overflow: visible; /* this will showing content below box */
+       overflow: clip; /* hide content bwlow box */
+}
