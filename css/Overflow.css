@@ -2,9 +2,11 @@
     height: 200px;
     width: 200px;
     border: 5px solid orangered;
-    overflow: auto; /* this use scrollbar */
+    overflow: auto; /* this use scrollbar only on that axis where required */
     overflow: hidden; /* this hide content that overflow */
     overflow: scroll; /* this use scrollbar */
     overflow: visible; /* this will showing content below box */
-       overflow: clip; /* hide content bwlow box */
+    overflow: clip; /* hide content below box */
+    overflow-x: hidden; /* hide content of x axis */
+    overflow-y: hidden; /* hide content of y axis */
 }
