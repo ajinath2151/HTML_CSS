@@ -1,0 +1,134 @@
+/* header seciton style */
+.mycontainer {
+    background-image: url('/test/images/6.jpg'); 
+    background-repeat: no-repeat; 
+    width: 100vw; 
+    height: 1000px;    
+}
+.navbar {
+    margin-top: 20px;
+}
+.rightMenu {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    color: white !important;    
+    margin-left: 49%;
+}
+.nav-link {    
+    color: white !important;
+}
+.nav-item {
+    padding: 0px 23px;
+}
+.verticleLine {
+    height: 80px;
+    width: 1px;
+    background-color: white;
+    margin-left: 5px;
+}
+.leftMenu {
+    padding: -20px;
+}
+.unlock {
+    color: white;
+    margin: 146px 0px 0px 115px;
+    letter-spacing: 1px;
+    font-weight: 100;
+}
+.spa {
+    color: white;
+    margin: 20px 0px 50px 115px;
+    font-weight: 400;
+}
+.bookCall {
+    background-color: #efe2e2;
+    height: 45px;
+    width: 284px;
+    margin-left: 115px;
+}
+.header-wrap {
+    position: relative;
+}
+.logo5 img{    
+    height: 210px;
+    width: 154px;
+    position: absolute;
+    right: 82px;
+    bottom: -307px;
+    background-color: none;
+    color: none;
+}
+/* ./header seciton style */
+
+/*   style */
+.laserSchool {
+    background-color:#e7dddd;
+    /* height: 200px; */
+}
+.laserSchoolHeading {
+    margin-top: 20px;
+}
+.card {
+    padding: 10px 59px;
+    margin: 10px 35px;
+    background-color: #e7dddd !important;
+    border: none !important;
+}
+/* ./laserSchool style */
+
+/* next step style */
+.nextStep {
+    background-image: url('/test/images/2.jpg'); 
+    background-repeat: no-repeat; 
+    width: 100vw; 
+    height: 1200px;    
+    position: relative;
+}
+.topLogo img {
+    position: absolute;
+    width: 120px;
+    height: 153px;
+    top: 115px;
+}
+.nextStepWrap h2 {
+    color: white;
+    margin: 294px 0px 0px 49px;
+}
+.p1 {    
+    color: white;
+    margin-left: 29px;
+    font-size: 16px;
+    padding: 20px 185px 0px 103px;
+}
+.p2 {
+    color: white;
+    margin-left: 29px;
+    font-size: 12px;
+    padding: 0px 233px 5px 103px;
+
+}
+.image3 img {
+    margin-top: 240px;
+    height: 353px;
+    width: 100%;
+}
+/* ./next step style */
+
+/* map seciton style */
+.map {
+    margin-top: 30px;
+    padding: 30px 50px;
+}
+.address {
+    margin-top: 20px;
+    line-height: 2;
+    /* margin-bottom: 20px;     */
+}
+.icons {
+     margin: 30px 0px 30px 0px;
+}
+.icons svg {
+     margin: 10px;
+}
+/* ./map seciton style */
