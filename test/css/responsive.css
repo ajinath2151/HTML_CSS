@@ -1,8 +1,99 @@
-@media screen and (max-width: 480px) {
-  .navbar img{
-    display: none;
+/* Default styles (for mobile devices) */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Header styles */
+.navbar-collapse {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+  position: absolute;
+  top: 60px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+
+.navbar-nav.leftMenu,
+.navbar-nav.rightMenu {
+  width: 100%;
+  text-align: center;
+}
+
+.navbar-toggler-icon {
+  background-color: #333;
+}
+
+.header-wrap {
+  text-align: center;
+  padding: 20px;
+}
+
+.header h6 {
+  font-size: 18px;
+}
+
+.header h1 {
+  font-size: 32px;
+}
+
+/* Laser School section */
+.laserSchoolHeading,
+.nextStep h2 {
+  font-size: 24px;
+}
+
+.card {
+  margin: 10px 0;
+}
+
+.bookCall {
+  font-size: 16px;
+  padding: 12px 24px;
+}
+
+/* Map section */
+.address {
+  font-size: 16px;
+}
+
+/* Responsive styles for larger screens */
+@media (min-width: 768px) {
+  /* Header styles for tablets and larger screens */
+  .navbar-nav.leftMenu,
+  .navbar-nav.rightMenu {
+      text-align: left;
   }
-  .leftMenu {
-    display: none;
+
+  .header h6 {
+      font-size: 24px;
+  }
+
+  .header h1 {
+      font-size: 48px;
+  }
+
+  /* Laser School and Next Step section styles for tablets and larger screens */
+  .laserSchoolHeading,
+  .nextStep h2 {
+      font-size: 32px;
+  }
+
+  .card {
+      margin: 20px 0;
+  }
+
+  .bookCall {
+      font-size: 18px;
+      padding: 14px 28px;
+  }
+
+  /* Map section styles for tablets and larger screens */
+  .address {
+      font-size: 18px;
   }
 }
