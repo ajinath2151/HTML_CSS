@@ -5,9 +5,15 @@
     width: 100vw; 
     height: 1000px;    
 }
+.topLogoImg img {
+    margin-top: 25px;
+}
 .navbar {
     margin-top: 20px;
 }
+/* .navbar-collapse {
+    background: none;
+} */
 .rightMenu {
     display: flex;
     justify-content: center;
@@ -26,6 +32,8 @@
     width: 1px;
     background-color: white;
     margin-left: 5px;
+    position: absolute;
+    top: 50px;
 }
 .leftMenu {
     padding: -20px;
