@@ -1,0 +1,155 @@
+/* responsive for mobile screen max-480 */
+/* top/first section     */
+@media screen and (max-width: 480px) {
+   .header  {
+     /* background-size: contain; */
+     /* background-size: 100% 100%; */        
+   }
+   .orderNow {
+    align-items: center;
+    /* display: flex; */
+    margin: auto;
+    margin-top: 30px;
+    justify-content: center;
+   }
+  .cafeText h1 {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    padding-right: 50%;
+  }
+  .coffeeDetails {
+    margin-left: -96px;
+    padding: 30px 33px;
+    line-height: 1.5;
+  }
+  .coffeeMorning {
+    margin-left: -96px;
+  }
+  /* ./top/first section */
+  /* discoverCoffee section */
+  .learnMore {    
+        align-items: center;
+        display: flex;
+        margin: auto;
+        margin-top: 30px;
+        justify-content: center;    
+  }
+  .discoverCoffee {
+    background: white;
+  }
+  .discoverCoffee-wrap1 h1 {
+    text-align: center;
+}
+  .discoverCoffee-wrap2 img {
+    width: 100%;
+    margin-top: 20px;
+    
+  }
+  .discoverCoffee-wrap1 h5 {
+    font-weight: 400;
+    padding-right: 60px;
+    padding-left: 29px;
+    }
+    .leftImage img {
+      padding-top: 0px;
+      margin-top: -14px;
+    }
+  /* ./discoverCoffee section */
+  /* blend coffee section */
+  .blendCards {
+    padding: 5px 5px;
+  }
+  /* ./blend coffee section */
+  /* we different */
+  .weDifferentCard {
+    padding: 5px 5px;
+  }
+  /* we different */
+  /* amazing morning section */
+  .amazingMorning  {
+    /* background-size: contain; */
+    /* background-size: 100% 100%; */
+  }
+  .amazingMorning h1 {
+    width: 100%;
+    font-size: 28px;
+    padding: 0;
+    text-align: center;
+  }
+  .amazingMorning p {
+    width: 100%;    
+    padding: 0;
+    text-align: center;
+  }
+  .amazingMorning button {
+    width: 100%;    
+  }
+  /* ./amazing morning section */
+  /* we different section */
+  .weDifferent h1 {
+    padding-top: 88px;
+}
+.getStarted {  
+  margin-top: -65px !important;
+}
+  /* ./we different section */
+  /* feedback seciton */
+  .feedback h1 {
+    margin-top: 150px;
+  }
+  .right2 img {
+    margin-top: -187px;
+    width: 302px;
+  }
+  .feedbackWrap {
+    width: 100%;
+  }
+  .feedbackWrap p {        
+    padding: 0px;
+    margin: 112px 0px 0px 0px;        
+  }
+  .left2 img {
+    margin: 0px 3px -190px 0px;
+  }
+  .cafeP {    
+    margin: 109px 55px 35px 0px !important;
+  }
+  .otherConternt {
+    margin: 0;
+  }
+  /* ./feedback seciton */
+  /* subscribe section responsive */
+  .subscribe {
+    /* background-size: 200px auto; */
+  }
+  .wrapSubscribe h1 {      
+    font-size: x-large;
+    margin-top: -85px;
+    z-index: 7;
+    position: relative;
+  }
+  .wrapSubscribe p {      
+    font-size: x-small;
+  }
+  .wrapSubscribe input {
+    width: 196px;
+    height: 54px;    
+}
+.wrapSubscribe button {
+  width: 85px;  
+}
+.subscribe {
+  background-size: 389px 966px;
+}
+.subscribeMenus {
+  margin: 0px 0px 200px 80px;
+  line-height: 1;
+}
+.subscribeMenus h4 {
+  margin-top: 30px;
+  margin-bottom: 7px;
+}
+  /* ./subscribe section responsive */
+}
+/* ./responsive for mobile screen max-480 */

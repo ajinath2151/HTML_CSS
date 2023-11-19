@@ -1,0 +1,301 @@
+/* navbar style */
+/* body */
+.header {
+  background-image: url('../images/coffeeImage.png');  
+  background-repeat: no-repeat;  
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  padding-top: 70px;  
+}
+.nav-link.active, .nav-link { 
+  color: white!important;
+  padding: 0px 20px !important;
+}
+.logoText {
+  color: white;
+  padding-left: 115px;
+  font-size: 27px;
+  font-family: 'Dancing Script', cursive;
+}
+.navbar {
+  background-color: none !important;
+}
+.navbar-light .navbar-toggler {
+  background: white;
+}
+.cafeText {
+  color: white;
+  padding-left: 115px;
+  margin-top: 35px;
+}
+.cafeText h1 {
+  font-size: 150px;
+  font-family: 'Dancing Script', cursive;
+  color: white;  
+}
+.orderNow {
+  width: 130px;
+  height: 47px;
+  border-radius: 20px;
+  background-color: #f3b55a;
+  margin-top: 20px;
+  border: none;
+}
+/* ./navbar style */
+/* discoverCoffee section */
+.learnMore {
+  width: 130px;
+  height: 47px;
+  border-radius: 20px;
+  background-color: #f3b55a;
+  margin-top: 20px;
+  border: none;
+}
+.discoverCoffee {
+  margin-top: 100px;  
+  background: white;
+}
+.discoverCoffee-wrap1 h1 {
+  color: #603a02;
+  font-weight: 700;
+}
+.discoverCoffee-wrap1 h5 {  
+  font-weight: 400;
+  padding-right: 60px;
+}
+.discoverCoffee-wrap2 img {
+  width: 530px;
+  height: 437px;
+  margin-top: -39px;
+}
+.leftImage img {
+  height: 179px;
+  width: 417px;
+  margin-top: -130px;
+}
+/* ./discoverCoffee section */
+/* blend coffee section */
+.blendCoffee h1 {
+  color: #603a02;
+  text-align: center;
+  font-weight: 700;
+}
+.blendCoffee p {  
+  text-align: center;  
+}
+.blendCards {
+  padding: 5px 200px;
+}
+.card-title {
+  text-align: center;
+  color: #603a02;
+}
+.card-body {
+  background-color: #f9f2e8;
+  height: 136px;
+}
+.cardButton {
+  width: 110px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #f3b55a;  
+  border: none;  
+  position: absolute;
+  left: 33%;
+  bottom: -20px;
+}
+/* ./blend coffee section */
+/* we different */
+.weDifferent {
+  position: relative;
+}
+.weDifferent h1{
+  color: #603a02;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 80px;
+}
+.weDifferent p{
+  text-align: center;
+}
+.weDifferentCard {
+  padding: 5px 200px;
+}
+.card-text {
+  padding: 0px 33px;
+}
+.rightImage img {
+  height: 150px;  
+  position: absolute;
+  right: 0px;
+  width: 423px;
+  top: -55px;
+}
+.weDifferent button {
+  width: 130px;
+  height: 47px;
+  border-radius: 20px;
+  background-color: #f3b55a;
+  margin-top: 20px;
+  border: none;
+  margin: auto;
+  display: block;
+  margin-bottom: 50px;
+}
+/* ./we different */
+/* amazing morning section */
+.amazingMorning {
+  background-image: url('../images/amazingMorningImage.png');  
+  background-repeat: no-repeat;  
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+  padding-top: 70px;  
+  color: white;
+  margin-bottom: 50px;
+}
+.amazingMorning h1 {
+  padding: 98px 700px 15px 0px;
+  font-size: xxx-large;  
+}
+.amazingMorning p {
+  padding: 0px 892px 0px 0px;  
+}
+/* ./amazing morning section */
+/* feedback seciton */
+.feedback h1 {  
+  color: #603a02;
+  text-align: center;
+  font-weight: 700;
+  }
+  .feedback p1{  
+    text-align: center;  
+  }
+  .feedback p {  
+    text-align: center;  
+  }
+  .feedbackWrap {
+    width: 1000px;
+    height: 400px;
+    border: 1px solid #c29a9a;
+    padding: 10px 10px;
+    background: #e9e4dc;    
+    display: flex;
+    margin: auto;
+    position: relative;
+  }
+  .feedbackWrap img {
+    width: 100px;
+    height: 100px;
+  }
+  .feedbackWrap p {
+    text-align: center;
+    justify-content: center;
+    /* margin: auto; */
+    padding: 0px 95px;
+    margin-top: 150px;
+  }
+  .colFeedback {
+    position: relative;
+  }
+  .otherConternt {
+    position: absolute;
+    right: 49%;
+    bottom: -11%;
+  }
+  .otherConternt img {
+    margin-left: 20px;
+  }
+  .otherConternt h5 {
+    color: #603a02;
+  }
+  .right2 img{
+    position: absolute;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 1;
+    top: 38px;
+    width: 377px;
+  }
+  .left2 img {
+    position: absolute;
+    bottom: -50px;
+    width: 400px;
+  }
+  .feedback {
+    position: relative;
+  }
+  .horizontal_dotted_line {
+    border-bottom: 1px dashed black;
+    width: 100%;
+    margin: 103px 0px 54px 0px;    
+  }
+/* ./feedback seciton */
+/* subscribe section style */
+.subscribe {
+  background-image: url('../images/Subscribe.png');
+  background-repeat: no-repeat;  
+  background-size: cover;
+  width: 100vw;
+  height: 965px;
+  padding-top: 120px;  
+  /* color: white; */
+  margin-bottom: 50px;
+}
+.wrapSubscribe {
+  color: white;
+  text-align: center;
+}
+.wrapSubscribe h4{
+  margin-bottom: 50px;
+  /* text-align: center; */
+}
+.wrapSubscribe h1 {      
+  font-size: xxx-large;
+}
+.wrapSubscribe input {
+  width: 375px;
+  height: 54px;
+  border-bottom-left-radius: 8px;
+  border-top-left-radius: 8px; 
+  border: none; 
+  padding-left: 20px;
+}
+.wrapSubscribe button {            
+  height: 55px;
+  margin-left: -7px;
+  width: 116px;
+  background: #efab52;
+  border: none;
+  border-bottom-right-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.subscribeMenus {
+  margin-top: 340px;
+}
+.subscribeMenus h2{
+  font-size: 50px;
+  font-weight: 100;
+  margin-bottom: 25px;
+  font-family: 'Dancing Script', cursive;
+  text-align: left;
+}
+.subscribeMenus p {
+  line-height: 2;
+  margin: 0px 8px 5px -33px;  
+  text-align: left;
+}
+.subscribeMenus ul {
+  text-align: start;
+  list-style: none;
+  padding-right: 96px;
+}
+.subscribeMenus li {
+  margin: 5px 0px;
+}
+.subscribeMenus h4 {
+  text-align: left;
+}
+/* ./subscribe section style */
