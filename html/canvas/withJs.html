@@ -1,0 +1,21 @@
+<!-- canvas with js -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas with js</title>
+</head>
+<body>
+    <canvas id="myCanvas" width="200" height="100" style="border: 2px solid red;">your browser does not support canvas</canvas>
+
+    <script>
+        let c = document.getElementById("myCanvas");
+        let ctx = c.getContext("2d");
+        ctx.moveTo(0,0);
+        ctx.lineTo(200,100); // 200 width 100 height
+        ctx.stroke();
+        
+    </script>
+</body>
+</html>
