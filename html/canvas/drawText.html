@@ -1,0 +1,21 @@
+
+<!-- drawing a text using canvas -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Draw Text</title>
+</head>
+<body>
+    <canvas id="myCanvas" width="200" height="100" style="border: 2px solid green;">your browser does not support canvas</canvas>    
+
+    <script>
+        let c = document.getElementById("myCanvas");
+        let content = c.getContext("2d"); 
+        content.font = "30px Arial";
+        content.fillText("Hello, world!", 10,50);        
+        </script>
+</body>
+</html>
