@@ -1,0 +1,12 @@
+#defaultStyle {
+    all: initial;    
+}
+
+.gfg {
+    /* hide this below style to see default style */
+    all: unset; 
+}
+.geeks {
+    color: green;
+    font-size: 3rem;
+}
